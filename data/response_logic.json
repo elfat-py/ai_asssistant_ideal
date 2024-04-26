@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9I3X37u7621FNZ2IQuSMCjS6RZR3w",
+    "object": "chat.completion",
+    "created": 1714090509,
+    "model": "gpt-3.5-turbo-0125",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "This website allows users to input their document tracking number to receive real-time updates on the status of their documents. Users will be able to see exactly where their documents are in the processing or delivery process, providing them with a transparent and efficient way to stay informed. This service aims to streamline and improve the document tracking experience for users."
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 62,
+        "completion_tokens": 66,
+        "total_tokens": 128
+    },
+    "system_fingerprint": "fp_3b956da36b"
+}
